@@ -5,7 +5,7 @@ This exercise is an revision for everything covered in this course.
 1. You create a repo on github.com
 2. You copy the html code 
 
-3. go back to your terminal and create a directory - 'Project
+3. go back to your terminal and create a directory - 'Project'
 4. Once you are in that directory - `git clone copied html code`
 5. `ls -al  Project` #This will show your the files present in the Project directory
 6. Make changes in README.md file
